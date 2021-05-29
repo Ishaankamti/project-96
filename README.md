@@ -1,2 +1,2 @@
 # project-96
-http://127.0.0.1:5500/kwitter.html
+link:http://127.0.0.1:5500/kwitter.html
